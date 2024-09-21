@@ -1,4 +1,8 @@
 /********** Template CSS **********/
+
+body{
+    background-color: #17224D;
+}
 :root {
     --primary: #1E60AA;
     --secondary: #FF4917;
@@ -254,10 +258,12 @@
 /*** Service ***/
 .service-item-top img {
     transition: .5s;
+    border-radius: 50px;
 }
 
 .service-item-top:hover img {
     transform: scale(1.1);
+    
 }
 
 .service-carousel .owl-dots {
