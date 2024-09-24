@@ -258,7 +258,7 @@ body{
 /*** Service ***/
 .service-item-top img {
     transition: .5s;
-    border-radius: 50px;
+    border-radius: 80px;
 }
 
 .service-item-top:hover img {
